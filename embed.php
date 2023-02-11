@@ -8,14 +8,6 @@
   </head>
   <body>
     <a class="twitter-timeline" href="https://twitter.com/Le0ds/lists/juventus?ref_src=twsrc%5Etfw">A Twitter List by Le0ds</a> 
-    <script>
-      window.onload = function() {
-        var script = document.createElement('script');
-        script.src = "https://platform.twitter.com/widgets.js";
-        script.async = true;
-        script.charset = "utf-8";
-        document.body.appendChild(script);
-      }
-    </script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </body>
 </html>
